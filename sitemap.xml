@@ -1,16 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+<!-- Ana Sayfa -->
   <url>
-    <loc>https://seninsiteninadresi.com/</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://islamyolunda.com/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
   </url>
 
+  <!-- Dualar Ana Sayfası -->
   <url>
-    <loc>https://seninsiteninadresi.com/sahabeler/hz-ebubekir.html</loc>
-    <lastmod>2026-06-20</lastmod>
+    <loc>https://islamyolunda.com/dualar.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- İslam Alimleri Ana Sayfası -->
+  <url>
+    <loc>https://islamyolunda.com/islam-alimleri.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Namazlar Ana Sayfası -->
+  <url>
+    <loc>https://islamyolunda.com/namazlar.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Peygamberler Ana Sayfası -->
+  <url>
+    <loc>https://islamyolunda.com/peygamberler.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Sahabeler Ana Sayfası -->
+  <url>
+    <loc>https://islamyolunda.com/sahabeler.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Sahabeler Alt Sayfaları (Örnek: Hz. Ebubekir) -->
+  <url>
+    <loc>https://islamyolunda.com/sahabeler/hz-ebubekir.html</loc>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
   </url>
 
   </urlset>
